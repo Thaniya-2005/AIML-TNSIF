@@ -1,0 +1,601 @@
+Patient_ID,Age,Gender,Blood_Type,Medical_Condition,Admission_Type,Hospital
+P0001,89,Male,B-,Hypertension,Elective,Green Valley Medical Centre
+P0002,55,Male,O-,Obesity,Urgent,Green Valley Medical Centre
+P0003,20,Female,B-,Asthma,Urgent,City Hospital
+P0004,45,Male,A-,Arthritis,Emergency,Apollo Care
+P0005,59,Female,B-,Obesity,Emergency,Sunrise Hospital
+P0006,30,Female,B+,Diabetes,Elective,City Hospital
+P0007,48,Male,O-,Diabetes,Emergency,City Hospital
+P0008,91,Female,A+,Diabetes,Elective,City Hospital
+P0009,44,Female,B-,Diabetes,Urgent,Green Valley Medical Centre
+P0010,34,Female,AB-,Asthma,Urgent,Apollo Care
+P0011,50,Female,A+,Arthritis,Elective,Apollo Care
+P0012,34,Female,A-,Healthy,Emergency,Sunrise Hospital
+P0013,55,Female,AB-,Hypertension,Urgent,Apollo Care
+P0014,54,Male,A+,Asthma,Emergency,Apollo Care
+P0015,56,Female,AB-,Asthma,Urgent,City Hospital
+P0016,7,Female,A-,Healthy,Elective,City Hospital
+P0017,20,Female,O-,Healthy,Elective,Green Valley Medical Centre
+P0018,56,Male,B+,Hypertension,Elective,City Hospital
+P0019,78,Female,A-,Hypertension,Urgent,City Hospital
+P0020,35,Male,A-,Healthy,Emergency,City Hospital
+P0021,61,Female,AB-,Diabetes,Emergency,City Hospital
+P0022,22,Male,O-,Asthma,Emergency,Green Valley Medical Centre
+P0023,23,Male,O+,Obesity,Urgent,City Hospital
+P0024,64,Female,AB+,Hypertension,Urgent,Sunrise Hospital
+P0025,54,Female,B-,Hypertension,Urgent,Sunrise Hospital
+P0026,63,Male,B-,Healthy,Urgent,Sunrise Hospital
+P0027,51,Female,B+,Arthritis,Urgent,Sunrise Hospital
+P0028,75,Male,B+,Obesity,Emergency,City Hospital
+P0029,44,Male,B-,Obesity,Urgent,Sunrise Hospital
+P0030,42,Male,AB+,Hypertension,Urgent,City Hospital
+P0031,31,Male,B-,Diabetes,Emergency,Green Valley Medical Centre
+P0032,41,Male,O+,Arthritis,Urgent,Sunrise Hospital
+P0033,89,Female,AB+,Obesity,Emergency,Apollo Care
+P0034,59,Male,B+,Hypertension,Emergency,Sunrise Hospital
+P0035,55,Male,A+,Obesity,Elective,Sunrise Hospital
+P0036,55,Female,AB-,Arthritis,Elective,City Hospital
+P0037,35,Male,O+,Arthritis,Elective,Sunrise Hospital
+P0038,12,Female,O+,Asthma,Elective,Apollo Care
+P0039,47,Female,O-,Healthy,Urgent,City Hospital
+P0040,34,Female,B+,Healthy,Elective,City Hospital
+P0041,9,Male,B+,Hypertension,Emergency,Green Valley Medical Centre
+P0042,19,Male,A-,Arthritis,Urgent,Green Valley Medical Centre
+P0043,16,Male,O+,Asthma,Elective,Sunrise Hospital
+P0044,93,Female,A-,Asthma,Emergency,Green Valley Medical Centre
+P0045,11,Male,A-,Obesity,Urgent,Green Valley Medical Centre
+P0046,27,Female,AB-,Obesity,Urgent,Green Valley Medical Centre
+P0047,12,Male,A-,Asthma,Elective,City Hospital
+P0048,52,Female,AB+,Obesity,Urgent,City Hospital
+P0049,42,Male,B-,Arthritis,Emergency,City Hospital
+P0050,47,Male,A+,Diabetes,Urgent,Green Valley Medical Centre
+P0051,67,Male,B+,Arthritis,Emergency,City Hospital
+P0052,59,Female,AB+,Asthma,Urgent,Green Valley Medical Centre
+P0053,66,Female,A+,Asthma,Elective,City Hospital
+P0054,41,Male,O+,Arthritis,Emergency,City Hospital
+P0055,72,Male,O+,Obesity,Urgent,Apollo Care
+P0056,68,Female,O+,Obesity,Urgent,Sunrise Hospital
+P0057,55,Female,AB+,Healthy,Urgent,Green Valley Medical Centre
+P0058,24,Female,AB+,Asthma,Emergency,Apollo Care
+P0059,60,Male,B+,Hypertension,Emergency,City Hospital
+P0060,72,Female,B-,Healthy,Emergency,Green Valley Medical Centre
+P0061,26,Male,O-,Obesity,Elective,City Hospital
+P0062,53,Female,A-,Arthritis,Elective,Sunrise Hospital
+P0063,75,Male,O+,Obesity,Emergency,Apollo Care
+P0064,74,Female,AB-,Arthritis,Urgent,Sunrise Hospital
+P0065,29,Female,B-,Healthy,Elective,Apollo Care
+P0066,53,Female,AB-,Asthma,Emergency,City Hospital
+P0067,71,Female,B+,Obesity,Urgent,Sunrise Hospital
+P0068,51,Female,B+,Arthritis,Elective,Sunrise Hospital
+P0069,62,Male,B+,Asthma,Urgent,City Hospital
+P0070,31,Female,A+,Hypertension,Urgent,Sunrise Hospital
+P0071,18,Female,AB-,Arthritis,Urgent,Green Valley Medical Centre
+P0072,34,Female,B-,Healthy,Urgent,Apollo Care
+P0073,42,Male,O-,Hypertension,Elective,Apollo Care
+P0074,21,Female,B-,Hypertension,Elective,Apollo Care
+P0075,31,Male,AB+,Diabetes,Elective,Green Valley Medical Centre
+P0076,40,Female,AB+,Obesity,Emergency,Apollo Care
+P0077,12,Female,O+,Arthritis,Elective,City Hospital
+P0078,59,Male,O-,Hypertension,Urgent,Sunrise Hospital
+P0079,68,Female,AB+,Diabetes,Elective,Green Valley Medical Centre
+P0080,9,Male,B+,Healthy,Urgent,Apollo Care
+P0081,23,Male,B-,Asthma,Emergency,City Hospital
+P0082,8,Female,AB-,Arthritis,Urgent,Sunrise Hospital
+P0083,62,Male,B+,Hypertension,Urgent,Sunrise Hospital
+P0084,25,Female,A+,Obesity,Urgent,Green Valley Medical Centre
+P0085,50,Female,AB+,Diabetes,Emergency,Green Valley Medical Centre
+P0086,8,Male,B+,Hypertension,Elective,Green Valley Medical Centre
+P0087,60,Male,B+,Obesity,Elective,City Hospital
+P0088,58,Male,A+,Hypertension,Emergency,City Hospital
+P0089,49,Male,A-,Arthritis,Urgent,Green Valley Medical Centre
+P0090,27,Female,B-,Arthritis,Elective,Apollo Care
+P0091,58,Female,AB-,Arthritis,Emergency,Sunrise Hospital
+P0092,77,Male,O+,Healthy,Elective,Sunrise Hospital
+P0093,28,Female,A-,Healthy,Emergency,City Hospital
+P0094,31,Female,AB+,Diabetes,Urgent,Sunrise Hospital
+P0095,11,Female,B+,Arthritis,Elective,Apollo Care
+P0096,44,Female,O-,Obesity,Emergency,Sunrise Hospital
+P0097,48,Male,A+,Hypertension,Elective,City Hospital
+P0098,53,Male,A+,Asthma,Elective,City Hospital
+P0099,44,Female,O-,Obesity,Elective,Apollo Care
+P0100,29,Male,B-,Healthy,Elective,Apollo Care
+P0101,22,Male,A-,Healthy,Emergency,Sunrise Hospital
+P0102,59,Male,O+,Obesity,Urgent,Sunrise Hospital
+P0103,24,Female,B-,Healthy,Emergency,City Hospital
+P0104,7,Female,O-,Arthritis,Emergency,Apollo Care
+P0105,55,Female,B+,Diabetes,Emergency,Apollo Care
+P0106,78,Male,O-,Hypertension,Urgent,Apollo Care
+P0107,24,Female,B-,Diabetes,Elective,Sunrise Hospital
+P0108,7,Female,AB-,Hypertension,Elective,Apollo Care
+P0109,21,Male,A+,Hypertension,Elective,City Hospital
+P0110,78,Female,A+,Diabetes,Urgent,City Hospital
+P0111,61,Female,AB+,Obesity,Elective,Sunrise Hospital
+P0112,30,Male,AB+,Hypertension,Urgent,Green Valley Medical Centre
+P0113,32,Male,O-,Diabetes,Elective,Sunrise Hospital
+P0114,10,Male,O+,Hypertension,Elective,Green Valley Medical Centre
+P0115,56,Female,B+,Asthma,Emergency,Apollo Care
+P0116,58,Female,AB-,Obesity,Urgent,Sunrise Hospital
+P0117,73,Female,A-,Arthritis,Emergency,City Hospital
+P0118,91,Male,B-,Hypertension,Emergency,Apollo Care
+P0119,88,Male,O+,Asthma,Emergency,City Hospital
+P0120,36,Female,B+,Arthritis,Urgent,Apollo Care
+P0121,86,Female,AB+,Arthritis,Urgent,Sunrise Hospital
+P0122,78,Male,O-,Hypertension,Elective,Green Valley Medical Centre
+P0123,46,Male,B-,Diabetes,Emergency,Apollo Care
+P0124,16,Male,AB+,Hypertension,Elective,Green Valley Medical Centre
+P0125,69,Male,O-,Asthma,Emergency,Apollo Care
+P0126,57,Female,B-,Arthritis,Urgent,City Hospital
+P0127,11,Male,A-,Hypertension,Urgent,City Hospital
+P0128,64,Female,B+,Diabetes,Urgent,Apollo Care
+P0129,55,Female,B-,Hypertension,Emergency,Green Valley Medical Centre
+P0130,66,Female,AB-,Obesity,Urgent,Sunrise Hospital
+P0131,66,Male,O+,Diabetes,Emergency,Sunrise Hospital
+P0132,54,Male,A+,Asthma,Elective,City Hospital
+P0133,75,Male,AB-,Arthritis,Emergency,Sunrise Hospital
+P0134,13,Male,AB-,Hypertension,Elective,City Hospital
+P0135,28,Female,O+,Diabetes,Emergency,Sunrise Hospital
+P0136,78,Male,A+,Obesity,Elective,Apollo Care
+P0137,40,Male,AB-,Diabetes,Urgent,City Hospital
+P0138,32,Female,B-,Healthy,Elective,City Hospital
+P0139,46,Male,B-,Obesity,Urgent,Apollo Care
+P0140,72,Female,B-,Asthma,Urgent,City Hospital
+P0141,24,Female,A+,Arthritis,Elective,Sunrise Hospital
+P0142,56,Female,AB-,Asthma,Emergency,Sunrise Hospital
+P0143,22,Female,O-,Hypertension,Emergency,City Hospital
+P0144,69,Female,A+,Diabetes,Emergency,Sunrise Hospital
+P0145,40,Female,B-,Healthy,Emergency,Green Valley Medical Centre
+P0146,44,Female,O+,Obesity,Emergency,City Hospital
+P0147,42,Female,AB-,Obesity,Urgent,Apollo Care
+P0148,31,Male,AB-,Diabetes,Emergency,Green Valley Medical Centre
+P0149,55,Male,AB+,Healthy,Urgent,City Hospital
+P0150,67,Male,AB+,Diabetes,Urgent,Apollo Care
+P0151,65,Male,A-,Hypertension,Urgent,Sunrise Hospital
+P0152,23,Female,O-,Asthma,Elective,Apollo Care
+P0153,57,Male,O-,Obesity,Elective,Green Valley Medical Centre
+P0154,64,Female,B+,Hypertension,Urgent,Sunrise Hospital
+P0155,38,Male,O-,Asthma,Elective,City Hospital
+P0156,71,Male,AB+,Hypertension,Emergency,Sunrise Hospital
+P0157,10,Male,A+,Healthy,Emergency,City Hospital
+P0158,69,Female,O-,Obesity,Urgent,City Hospital
+P0159,41,Male,AB+,Diabetes,Emergency,Apollo Care
+P0160,77,Female,A-,Diabetes,Urgent,Apollo Care
+P0161,22,Female,AB-,Asthma,Urgent,Apollo Care
+P0162,59,Male,O-,Arthritis,Emergency,Green Valley Medical Centre
+P0163,39,Male,A-,Healthy,Elective,Green Valley Medical Centre
+P0164,43,Male,AB-,Asthma,Emergency,Apollo Care
+P0165,57,Female,O+,Arthritis,Emergency,Green Valley Medical Centre
+P0166,46,Male,O+,Hypertension,Urgent,Sunrise Hospital
+P0167,32,Female,AB-,Healthy,Urgent,Sunrise Hospital
+P0168,20,Female,O-,Hypertension,Urgent,Green Valley Medical Centre
+P0169,20,Male,B+,Obesity,Urgent,Green Valley Medical Centre
+P0170,34,Male,AB+,Healthy,Elective,Sunrise Hospital
+P0171,36,Female,A+,Arthritis,Elective,City Hospital
+P0172,72,Female,A+,Obesity,Elective,Sunrise Hospital
+P0173,79,Female,B-,Diabetes,Urgent,Sunrise Hospital
+P0174,40,Male,AB-,Arthritis,Urgent,Green Valley Medical Centre
+P0175,32,Female,A+,Asthma,Urgent,Sunrise Hospital
+P0176,33,Male,O-,Diabetes,Elective,Green Valley Medical Centre
+P0177,39,Female,B+,Diabetes,Urgent,Green Valley Medical Centre
+P0178,46,Female,AB-,Asthma,Emergency,Apollo Care
+P0179,36,Male,B+,Healthy,Emergency,Sunrise Hospital
+P0180,22,Female,O-,Diabetes,Urgent,City Hospital
+P0181,49,Male,A+,Arthritis,Emergency,Apollo Care
+P0182,67,Male,A+,Obesity,Emergency,Green Valley Medical Centre
+P0183,47,Female,B-,Diabetes,Elective,Green Valley Medical Centre
+P0184,76,Male,A+,Arthritis,Urgent,City Hospital
+P0185,60,Male,AB-,Hypertension,Urgent,Green Valley Medical Centre
+P0186,78,Female,O-,Arthritis,Elective,Sunrise Hospital
+P0187,60,Male,O+,Obesity,Emergency,Apollo Care
+P0188,52,Male,O-,Arthritis,Emergency,Green Valley Medical Centre
+P0189,42,Male,AB-,Asthma,Urgent,Green Valley Medical Centre
+P0190,31,Female,AB-,Obesity,Emergency,City Hospital
+P0191,50,Male,B-,Healthy,Elective,Sunrise Hospital
+P0192,36,Female,B-,Hypertension,Elective,Green Valley Medical Centre
+P0193,32,Female,A+,Asthma,Urgent,City Hospital
+P0194,69,Male,A-,Healthy,Elective,Green Valley Medical Centre
+P0195,14,Male,O-,Arthritis,Elective,City Hospital
+P0196,30,Male,O-,Obesity,Urgent,City Hospital
+P0197,72,Female,A-,Hypertension,Elective,Sunrise Hospital
+P0198,76,Male,B-,Asthma,Elective,Green Valley Medical Centre
+P0199,58,Male,A+,Healthy,Elective,Sunrise Hospital
+P0200,46,Male,A-,Healthy,Emergency,City Hospital
+P0201,36,Male,A+,Hypertension,Urgent,Apollo Care
+P0202,47,Male,A+,Arthritis,Urgent,Green Valley Medical Centre
+P0203,24,Female,A+,Hypertension,Urgent,Apollo Care
+P0204,55,Female,AB+,Healthy,Emergency,Green Valley Medical Centre
+P0205,54,Male,AB-,Diabetes,Emergency,Sunrise Hospital
+P0206,40,Male,A+,Asthma,Urgent,Sunrise Hospital
+P0207,25,Male,AB+,Hypertension,Emergency,Sunrise Hospital
+P0208,41,Male,B-,Healthy,Urgent,Sunrise Hospital
+P0209,88,Female,A-,Arthritis,Emergency,Sunrise Hospital
+P0210,50,Male,AB-,Healthy,Elective,Apollo Care
+P0211,59,Female,O+,Arthritis,Elective,Sunrise Hospital
+P0212,70,Female,A-,Hypertension,Urgent,City Hospital
+P0213,38,Male,AB-,Arthritis,Emergency,City Hospital
+P0214,51,Female,O+,Obesity,Emergency,Apollo Care
+P0215,72,Female,A-,Obesity,Elective,Green Valley Medical Centre
+P0216,24,Female,AB-,Obesity,Elective,City Hospital
+P0217,91,Female,A-,Diabetes,Emergency,Green Valley Medical Centre
+P0218,64,Male,A-,Hypertension,Emergency,Apollo Care
+P0219,71,Male,O+,Healthy,Emergency,Green Valley Medical Centre
+P0220,32,Female,A-,Healthy,Emergency,Green Valley Medical Centre
+P0221,63,Male,A-,Diabetes,Emergency,Green Valley Medical Centre
+P0222,21,Male,O+,Arthritis,Emergency,Green Valley Medical Centre
+P0223,27,Male,B-,Diabetes,Urgent,Apollo Care
+P0224,16,Male,A+,Arthritis,Emergency,City Hospital
+P0225,55,Male,O-,Arthritis,Elective,Sunrise Hospital
+P0226,20,Female,B+,Asthma,Urgent,Green Valley Medical Centre
+P0227,52,Male,AB+,Healthy,Emergency,City Hospital
+P0228,79,Male,B+,Obesity,Elective,City Hospital
+P0229,86,Male,B+,Arthritis,Urgent,Apollo Care
+P0230,73,Male,AB-,Asthma,Elective,City Hospital
+P0231,50,Female,A+,Healthy,Emergency,Apollo Care
+P0232,47,Female,AB-,Obesity,Emergency,Green Valley Medical Centre
+P0233,23,Female,A+,Arthritis,Emergency,Green Valley Medical Centre
+P0234,22,Female,O+,Arthritis,Emergency,Sunrise Hospital
+P0235,58,Male,O+,Diabetes,Urgent,Sunrise Hospital
+P0236,89,Female,O-,Diabetes,Urgent,Sunrise Hospital
+P0237,46,Male,A+,Healthy,Elective,City Hospital
+P0238,27,Male,A-,Obesity,Emergency,Green Valley Medical Centre
+P0239,53,Male,B-,Arthritis,Elective,Apollo Care
+P0240,76,Male,O-,Healthy,Urgent,Sunrise Hospital
+P0241,25,Male,O-,Healthy,Emergency,Apollo Care
+P0242,85,Female,A-,Hypertension,Emergency,Apollo Care
+P0243,42,Female,B-,Diabetes,Urgent,Sunrise Hospital
+P0244,70,Female,AB-,Obesity,Urgent,Green Valley Medical Centre
+P0245,72,Female,B-,Arthritis,Urgent,Sunrise Hospital
+P0246,47,Male,AB-,Healthy,Urgent,Apollo Care
+P0247,40,Female,O+,Arthritis,Urgent,Sunrise Hospital
+P0248,68,Male,B+,Hypertension,Emergency,Apollo Care
+P0249,7,Female,O+,Obesity,Urgent,Apollo Care
+P0250,66,Male,O+,Healthy,Emergency,Sunrise Hospital
+P0251,79,Male,B+,Arthritis,Emergency,City Hospital
+P0252,63,Female,B-,Diabetes,Urgent,Sunrise Hospital
+P0253,13,Male,O-,Hypertension,Urgent,City Hospital
+P0254,56,Male,B-,Obesity,Emergency,Apollo Care
+P0255,33,Female,AB-,Hypertension,Urgent,Apollo Care
+P0256,69,Male,A-,Diabetes,Urgent,City Hospital
+P0257,43,Female,AB-,Obesity,Urgent,Apollo Care
+P0258,17,Female,A-,Hypertension,Elective,City Hospital
+P0259,36,Female,O+,Asthma,Emergency,City Hospital
+P0260,44,Male,B+,Diabetes,Elective,Apollo Care
+P0261,57,Male,O+,Diabetes,Urgent,Green Valley Medical Centre
+P0262,87,Male,A+,Diabetes,Elective,City Hospital
+P0263,40,Female,B-,Asthma,Urgent,Sunrise Hospital
+P0264,53,Male,A-,Asthma,Elective,Sunrise Hospital
+P0265,42,Female,AB-,Arthritis,Urgent,Apollo Care
+P0266,59,Female,B+,Healthy,Elective,Green Valley Medical Centre
+P0267,77,Male,A-,Hypertension,Elective,Apollo Care
+P0268,23,Female,AB-,Arthritis,Elective,Green Valley Medical Centre
+P0269,31,Male,B-,Hypertension,Emergency,City Hospital
+P0270,39,Male,O+,Healthy,Elective,City Hospital
+P0271,62,Male,B-,Asthma,Emergency,City Hospital
+P0272,20,Male,AB+,Healthy,Urgent,City Hospital
+P0273,76,Male,A+,Asthma,Elective,Sunrise Hospital
+P0274,55,Female,AB+,Healthy,Urgent,Sunrise Hospital
+P0275,63,Female,B+,Arthritis,Urgent,Apollo Care
+P0276,82,Female,A-,Obesity,Elective,Green Valley Medical Centre
+P0277,38,Male,B+,Arthritis,Emergency,City Hospital
+P0278,88,Male,O+,Hypertension,Elective,City Hospital
+P0279,20,Male,AB-,Arthritis,Urgent,Green Valley Medical Centre
+P0280,5,Female,B-,Diabetes,Urgent,Green Valley Medical Centre
+P0281,26,Male,AB+,Hypertension,Elective,Apollo Care
+P0282,92,Female,O-,Healthy,Emergency,Green Valley Medical Centre
+P0283,92,Female,AB+,Hypertension,Emergency,City Hospital
+P0284,80,Male,O+,Obesity,Urgent,City Hospital
+P0285,24,Male,AB+,Asthma,Urgent,City Hospital
+P0286,57,Female,O+,Healthy,Emergency,City Hospital
+P0287,7,Male,O-,Hypertension,Elective,City Hospital
+P0288,42,Female,B+,Healthy,Urgent,Apollo Care
+P0289,53,Male,B-,Healthy,Emergency,City Hospital
+P0290,42,Male,A-,Healthy,Urgent,Apollo Care
+P0291,45,Female,AB-,Asthma,Elective,City Hospital
+P0292,56,Male,A-,Arthritis,Emergency,Sunrise Hospital
+P0293,92,Female,B+,Healthy,Urgent,Sunrise Hospital
+P0294,58,Male,AB-,Diabetes,Elective,Sunrise Hospital
+P0295,84,Female,AB+,Obesity,Urgent,Sunrise Hospital
+P0296,21,Female,O-,Asthma,Elective,Apollo Care
+P0297,37,Male,O-,Hypertension,Elective,Apollo Care
+P0298,33,Female,A+,Asthma,Emergency,Green Valley Medical Centre
+P0299,62,Male,B+,Hypertension,Elective,City Hospital
+P0300,22,Male,B+,Asthma,Urgent,Sunrise Hospital
+P0301,92,Male,B-,Hypertension,Elective,Apollo Care
+P0302,68,Female,A-,Healthy,Elective,City Hospital
+P0303,55,Female,B+,Arthritis,Emergency,City Hospital
+P0304,49,Male,B+,Hypertension,Elective,Apollo Care
+P0305,45,Male,AB+,Hypertension,Elective,Sunrise Hospital
+P0306,16,Female,AB+,Diabetes,Urgent,Green Valley Medical Centre
+P0307,42,Male,AB-,Hypertension,Emergency,City Hospital
+P0308,15,Male,O+,Diabetes,Emergency,Green Valley Medical Centre
+P0309,5,Female,O+,Obesity,Emergency,Sunrise Hospital
+P0310,49,Male,A+,Healthy,Elective,Sunrise Hospital
+P0311,94,Female,O+,Diabetes,Emergency,Green Valley Medical Centre
+P0312,33,Male,B-,Arthritis,Elective,Sunrise Hospital
+P0313,43,Female,A+,Healthy,Elective,City Hospital
+P0314,23,Male,AB-,Diabetes,Urgent,Green Valley Medical Centre
+P0315,77,Male,AB+,Healthy,Urgent,Sunrise Hospital
+P0316,19,Female,O+,Healthy,Urgent,Green Valley Medical Centre
+P0317,86,Male,A-,Healthy,Urgent,City Hospital
+P0318,26,Female,AB+,Obesity,Urgent,Sunrise Hospital
+P0319,36,Male,O-,Arthritis,Elective,City Hospital
+P0320,60,Female,B-,Asthma,Elective,Sunrise Hospital
+P0321,36,Female,AB+,Asthma,Emergency,Apollo Care
+P0322,59,Female,B-,Diabetes,Elective,Sunrise Hospital
+P0323,75,Female,B-,Healthy,Elective,Green Valley Medical Centre
+P0324,51,Male,B-,Diabetes,Urgent,Sunrise Hospital
+P0325,66,Male,AB-,Obesity,Elective,City Hospital
+P0326,44,Female,B-,Obesity,Urgent,City Hospital
+P0327,46,Female,B-,Hypertension,Emergency,Sunrise Hospital
+P0328,59,Female,O-,Obesity,Emergency,Green Valley Medical Centre
+P0329,12,Male,A-,Hypertension,Elective,Apollo Care
+P0330,28,Male,A+,Arthritis,Emergency,Green Valley Medical Centre
+P0331,14,Male,B+,Diabetes,Elective,Apollo Care
+P0332,68,Male,O-,Arthritis,Emergency,City Hospital
+P0333,79,Female,A+,Obesity,Urgent,Green Valley Medical Centre
+P0334,40,Female,B-,Arthritis,Urgent,Apollo Care
+P0335,44,Female,A-,Arthritis,Urgent,Sunrise Hospital
+P0336,58,Male,AB+,Arthritis,Urgent,City Hospital
+P0337,47,Male,A-,Obesity,Elective,Sunrise Hospital
+P0338,58,Male,O-,Healthy,Emergency,City Hospital
+P0339,45,Female,B-,Arthritis,Elective,Green Valley Medical Centre
+P0340,75,Female,A-,Hypertension,Urgent,Green Valley Medical Centre
+P0341,27,Male,O+,Obesity,Elective,City Hospital
+P0342,54,Female,A-,Arthritis,Emergency,City Hospital
+P0343,21,Male,B-,Healthy,Elective,City Hospital
+P0344,39,Male,AB-,Obesity,Emergency,Green Valley Medical Centre
+P0345,46,Female,O+,Asthma,Elective,Apollo Care
+P0346,56,Male,A-,Healthy,Emergency,Sunrise Hospital
+P0347,15,Female,B+,Hypertension,Emergency,Sunrise Hospital
+P0348,71,Male,B+,Arthritis,Urgent,Green Valley Medical Centre
+P0349,16,Female,A-,Asthma,Emergency,Sunrise Hospital
+P0350,45,Female,AB-,Asthma,Urgent,City Hospital
+P0351,60,Female,AB+,Obesity,Urgent,Apollo Care
+P0352,31,Male,B-,Asthma,Urgent,Sunrise Hospital
+P0353,59,Male,B+,Hypertension,Elective,Apollo Care
+P0354,61,Female,AB+,Hypertension,Elective,City Hospital
+P0355,15,Female,A-,Diabetes,Elective,Sunrise Hospital
+P0356,21,Male,O-,Hypertension,Elective,Green Valley Medical Centre
+P0357,43,Male,AB+,Healthy,Emergency,Apollo Care
+P0358,79,Male,O+,Asthma,Emergency,City Hospital
+P0359,71,Female,A+,Hypertension,Elective,Apollo Care
+P0360,12,Male,B+,Obesity,Emergency,Sunrise Hospital
+P0361,80,Male,A-,Diabetes,Emergency,Sunrise Hospital
+P0362,76,Female,O-,Asthma,Urgent,Green Valley Medical Centre
+P0363,55,Male,B-,Diabetes,Urgent,City Hospital
+P0364,55,Male,O-,Asthma,Urgent,City Hospital
+P0365,58,Male,AB-,Obesity,Urgent,Green Valley Medical Centre
+P0366,57,Female,O+,Diabetes,Emergency,Green Valley Medical Centre
+P0367,66,Female,A-,Arthritis,Elective,City Hospital
+P0368,17,Female,B-,Healthy,Emergency,Apollo Care
+P0369,17,Female,AB-,Healthy,Emergency,Apollo Care
+P0370,42,Female,AB-,Asthma,Emergency,Green Valley Medical Centre
+P0371,28,Female,A-,Arthritis,Urgent,Apollo Care
+P0372,45,Female,O+,Diabetes,Urgent,City Hospital
+P0373,63,Male,AB+,Arthritis,Urgent,Sunrise Hospital
+P0374,59,Male,AB+,Arthritis,Elective,Sunrise Hospital
+P0375,41,Female,AB-,Diabetes,Emergency,Apollo Care
+P0376,83,Male,AB+,Obesity,Elective,Green Valley Medical Centre
+P0377,6,Male,A+,Arthritis,Urgent,Green Valley Medical Centre
+P0378,15,Female,AB-,Arthritis,Elective,Green Valley Medical Centre
+P0379,79,Male,AB-,Obesity,Emergency,Green Valley Medical Centre
+P0380,76,Male,B-,Arthritis,Emergency,Green Valley Medical Centre
+P0381,35,Male,AB+,Arthritis,Urgent,Apollo Care
+P0382,76,Male,O+,Arthritis,Urgent,Sunrise Hospital
+P0383,72,Male,AB-,Healthy,Elective,Sunrise Hospital
+P0384,28,Female,O-,Hypertension,Urgent,Apollo Care
+P0385,71,Female,O+,Obesity,Urgent,Green Valley Medical Centre
+P0386,53,Female,A+,Arthritis,Emergency,Apollo Care
+P0387,27,Male,B-,Healthy,Urgent,Sunrise Hospital
+P0388,76,Female,A-,Obesity,Urgent,City Hospital
+P0389,48,Male,O+,Asthma,Emergency,Apollo Care
+P0390,42,Male,AB-,Asthma,Emergency,Green Valley Medical Centre
+P0391,18,Male,A+,Arthritis,Elective,Sunrise Hospital
+P0392,41,Male,B+,Healthy,Urgent,Sunrise Hospital
+P0393,63,Female,A+,Healthy,Emergency,Sunrise Hospital
+P0394,19,Female,A+,Obesity,Elective,Sunrise Hospital
+P0395,48,Male,B-,Obesity,Elective,Green Valley Medical Centre
+P0396,20,Female,A-,Healthy,Urgent,City Hospital
+P0397,43,Male,B+,Obesity,Urgent,Sunrise Hospital
+P0398,9,Female,AB+,Healthy,Elective,Apollo Care
+P0399,85,Female,AB+,Hypertension,Emergency,City Hospital
+P0400,44,Male,O+,Healthy,Elective,Sunrise Hospital
+P0401,26,Female,A+,Asthma,Urgent,City Hospital
+P0402,91,Male,O-,Obesity,Emergency,Apollo Care
+P0403,64,Female,B-,Healthy,Emergency,Sunrise Hospital
+P0404,64,Male,O-,Healthy,Elective,Apollo Care
+P0405,34,Male,B-,Obesity,Urgent,Green Valley Medical Centre
+P0406,52,Female,AB+,Hypertension,Elective,Sunrise Hospital
+P0407,50,Female,O+,Hypertension,Elective,Sunrise Hospital
+P0408,77,Male,O+,Obesity,Elective,Sunrise Hospital
+P0409,70,Female,O+,Diabetes,Emergency,Sunrise Hospital
+P0410,18,Female,B+,Obesity,Emergency,Green Valley Medical Centre
+P0411,42,Male,A-,Obesity,Urgent,Sunrise Hospital
+P0412,92,Male,B+,Hypertension,Urgent,City Hospital
+P0413,94,Female,AB-,Hypertension,Elective,Sunrise Hospital
+P0414,61,Male,AB-,Obesity,Elective,Green Valley Medical Centre
+P0415,93,Male,O-,Obesity,Elective,Sunrise Hospital
+P0416,40,Male,A-,Obesity,Urgent,City Hospital
+P0417,73,Female,AB+,Hypertension,Emergency,Green Valley Medical Centre
+P0418,9,Female,A-,Obesity,Emergency,Green Valley Medical Centre
+P0419,45,Male,B-,Obesity,Elective,City Hospital
+P0420,26,Female,AB-,Arthritis,Elective,City Hospital
+P0421,34,Male,A+,Diabetes,Elective,City Hospital
+P0422,76,Female,A+,Asthma,Elective,City Hospital
+P0423,53,Male,AB+,Diabetes,Urgent,City Hospital
+P0424,55,Male,B-,Arthritis,Emergency,Green Valley Medical Centre
+P0425,68,Female,O-,Asthma,Elective,Green Valley Medical Centre
+P0426,91,Male,B+,Obesity,Urgent,Sunrise Hospital
+P0427,26,Female,B-,Arthritis,Elective,Sunrise Hospital
+P0428,26,Female,A+,Obesity,Elective,Apollo Care
+P0429,27,Male,A+,Hypertension,Emergency,Sunrise Hospital
+P0430,32,Male,O-,Healthy,Elective,Sunrise Hospital
+P0431,64,Female,AB-,Arthritis,Emergency,City Hospital
+P0432,59,Male,B-,Hypertension,Emergency,City Hospital
+P0433,22,Male,B-,Arthritis,Emergency,Sunrise Hospital
+P0434,55,Male,A+,Arthritis,Urgent,Apollo Care
+P0435,62,Male,B+,Hypertension,Urgent,City Hospital
+P0436,71,Male,AB+,Asthma,Emergency,Sunrise Hospital
+P0437,54,Female,O+,Diabetes,Elective,Sunrise Hospital
+P0438,67,Female,AB+,Obesity,Emergency,Green Valley Medical Centre
+P0439,93,Male,B-,Arthritis,Elective,Apollo Care
+P0440,47,Male,AB+,Obesity,Emergency,Green Valley Medical Centre
+P0441,60,Male,A+,Healthy,Elective,Apollo Care
+P0442,66,Female,A+,Hypertension,Urgent,City Hospital
+P0443,49,Male,O-,Obesity,Elective,Apollo Care
+P0444,38,Female,B-,Hypertension,Emergency,Sunrise Hospital
+P0445,39,Female,O-,Obesity,Urgent,Sunrise Hospital
+P0446,65,Female,B-,Diabetes,Elective,Apollo Care
+P0447,38,Male,O+,Diabetes,Elective,Apollo Care
+P0448,40,Female,O+,Diabetes,Elective,Apollo Care
+P0449,40,Male,AB-,Diabetes,Elective,Green Valley Medical Centre
+P0450,16,Female,B-,Diabetes,Elective,Apollo Care
+P0451,40,Male,B+,Diabetes,Urgent,City Hospital
+P0452,20,Female,AB+,Hypertension,Urgent,Green Valley Medical Centre
+P0453,20,Male,B-,Arthritis,Urgent,Green Valley Medical Centre
+P0454,63,Female,A-,Obesity,Urgent,Apollo Care
+P0455,8,Male,AB-,Diabetes,Emergency,City Hospital
+P0456,42,Male,A-,Hypertension,Urgent,Green Valley Medical Centre
+P0457,69,Male,A+,Hypertension,Elective,Sunrise Hospital
+P0458,34,Male,O+,Hypertension,Elective,Green Valley Medical Centre
+P0459,40,Female,AB+,Arthritis,Urgent,Apollo Care
+P0460,42,Female,B-,Obesity,Elective,City Hospital
+P0461,87,Male,A-,Arthritis,Urgent,Apollo Care
+P0462,68,Female,AB+,Asthma,Elective,Sunrise Hospital
+P0463,29,Male,A+,Hypertension,Emergency,Sunrise Hospital
+P0464,22,Male,O+,Asthma,Emergency,Sunrise Hospital
+P0465,49,Female,B+,Healthy,Urgent,Apollo Care
+P0466,43,Male,AB-,Diabetes,Urgent,Green Valley Medical Centre
+P0467,20,Male,AB+,Diabetes,Urgent,Apollo Care
+P0468,21,Female,AB+,Arthritis,Elective,City Hospital
+P0469,62,Male,B+,Obesity,Urgent,Green Valley Medical Centre
+P0470,28,Male,AB+,Asthma,Emergency,Sunrise Hospital
+P0471,55,Male,A+,Obesity,Elective,Apollo Care
+P0472,9,Male,A+,Arthritis,Urgent,Sunrise Hospital
+P0473,76,Female,B+,Diabetes,Elective,Sunrise Hospital
+P0474,77,Female,AB-,Obesity,Elective,City Hospital
+P0475,31,Female,B-,Obesity,Urgent,Green Valley Medical Centre
+P0476,56,Male,A-,Diabetes,Elective,City Hospital
+P0477,44,Male,B-,Asthma,Emergency,City Hospital
+P0478,70,Female,AB+,Diabetes,Emergency,City Hospital
+P0479,62,Male,A-,Obesity,Elective,Sunrise Hospital
+P0480,57,Male,O-,Asthma,Urgent,City Hospital
+P0481,41,Male,B+,Asthma,Elective,City Hospital
+P0482,40,Male,B+,Diabetes,Emergency,Green Valley Medical Centre
+P0483,56,Female,AB-,Obesity,Elective,Green Valley Medical Centre
+P0484,37,Female,A-,Arthritis,Elective,City Hospital
+P0485,82,Female,A+,Obesity,Emergency,Green Valley Medical Centre
+P0486,40,Male,A-,Hypertension,Elective,Green Valley Medical Centre
+P0487,59,Female,AB+,Healthy,Elective,City Hospital
+P0488,55,Female,A+,Arthritis,Urgent,Sunrise Hospital
+P0489,31,Male,O+,Asthma,Urgent,City Hospital
+P0490,63,Male,O+,Arthritis,Emergency,Green Valley Medical Centre
+P0491,32,Female,O-,Asthma,Emergency,Sunrise Hospital
+P0492,63,Female,O+,Asthma,Emergency,Apollo Care
+P0493,33,Female,B+,Arthritis,Urgent,Sunrise Hospital
+P0494,28,Female,A-,Asthma,Emergency,Green Valley Medical Centre
+P0495,41,Male,O+,Asthma,Emergency,Sunrise Hospital
+P0496,48,Female,B-,Hypertension,Emergency,City Hospital
+P0497,85,Female,AB-,Obesity,Urgent,Apollo Care
+P0498,21,Male,B-,Obesity,Elective,Apollo Care
+P0499,51,Female,O+,Healthy,Emergency,Apollo Care
+P0500,47,Male,O-,Healthy,Elective,Green Valley Medical Centre
+P0501,44,Male,AB-,Hypertension,Emergency,Green Valley Medical Centre
+P0502,36,Male,AB+,Healthy,Elective,Apollo Care
+P0503,52,Female,B-,Arthritis,Urgent,Sunrise Hospital
+P0504,56,Female,O-,Diabetes,Urgent,Apollo Care
+P0505,66,Male,A-,Diabetes,Emergency,Sunrise Hospital
+P0506,48,Female,A-,Diabetes,Elective,Sunrise Hospital
+P0507,64,Female,B-,Hypertension,Urgent,Green Valley Medical Centre
+P0508,58,Male,O+,Hypertension,Emergency,Sunrise Hospital
+P0509,47,Male,O-,Asthma,Emergency,Apollo Care
+P0510,13,Female,A-,Diabetes,Urgent,Green Valley Medical Centre
+P0511,73,Male,AB+,Arthritis,Urgent,City Hospital
+P0512,47,Female,A+,Healthy,Emergency,City Hospital
+P0513,54,Female,O+,Arthritis,Elective,Green Valley Medical Centre
+P0514,29,Female,O-,Healthy,Elective,Apollo Care
+P0515,61,Female,AB+,Diabetes,Elective,City Hospital
+P0516,41,Male,O-,Diabetes,Emergency,City Hospital
+P0517,26,Male,AB-,Diabetes,Urgent,Sunrise Hospital
+P0518,27,Male,AB+,Hypertension,Emergency,Sunrise Hospital
+P0519,27,Male,O+,Healthy,Urgent,Apollo Care
+P0520,81,Female,AB-,Hypertension,Elective,Green Valley Medical Centre
+P0521,10,Female,O+,Hypertension,Elective,Apollo Care
+P0522,64,Male,A-,Obesity,Urgent,Green Valley Medical Centre
+P0523,71,Female,A+,Arthritis,Urgent,City Hospital
+P0524,78,Female,O+,Arthritis,Emergency,Sunrise Hospital
+P0525,16,Female,O+,Asthma,Elective,Apollo Care
+P0526,11,Male,A-,Hypertension,Emergency,Apollo Care
+P0527,72,Male,B+,Healthy,Emergency,Green Valley Medical Centre
+P0528,37,Male,A-,Obesity,Emergency,Green Valley Medical Centre
+P0529,37,Female,AB-,Obesity,Elective,Apollo Care
+P0530,89,Male,A-,Arthritis,Emergency,Green Valley Medical Centre
+P0531,29,Male,A-,Hypertension,Emergency,Apollo Care
+P0532,71,Male,A+,Asthma,Emergency,Apollo Care
+P0533,6,Male,A-,Hypertension,Emergency,Apollo Care
+P0534,75,Male,O-,Diabetes,Emergency,City Hospital
+P0535,63,Male,O+,Hypertension,Emergency,Green Valley Medical Centre
+P0536,75,Female,O-,Diabetes,Elective,Sunrise Hospital
+P0537,44,Female,A+,Diabetes,Emergency,Sunrise Hospital
+P0538,55,Male,B-,Asthma,Urgent,Green Valley Medical Centre
+P0539,74,Male,B+,Healthy,Emergency,Apollo Care
+P0540,34,Female,O-,Arthritis,Emergency,Sunrise Hospital
+P0541,26,Female,A+,Hypertension,Elective,Sunrise Hospital
+P0542,90,Male,AB-,Diabetes,Elective,Green Valley Medical Centre
+P0543,45,Male,B-,Hypertension,Urgent,Sunrise Hospital
+P0544,23,Male,A+,Healthy,Urgent,Apollo Care
+P0545,48,Male,A+,Arthritis,Elective,Green Valley Medical Centre
+P0546,26,Female,B+,Healthy,Elective,Apollo Care
+P0547,47,Male,O+,Arthritis,Emergency,Sunrise Hospital
+P0548,55,Male,O-,Obesity,Elective,Sunrise Hospital
+P0549,29,Male,AB-,Arthritis,Urgent,Apollo Care
+P0550,37,Male,AB+,Asthma,Emergency,City Hospital
+P0551,51,Female,O-,Healthy,Urgent,Sunrise Hospital
+P0552,26,Female,AB+,Diabetes,Emergency,City Hospital
+P0553,15,Female,A+,Obesity,Elective,Sunrise Hospital
+P0554,40,Male,A-,Asthma,Urgent,City Hospital
+P0555,57,Male,AB-,Hypertension,Emergency,City Hospital
+P0556,14,Female,B-,Healthy,Emergency,City Hospital
+P0557,62,Male,A-,Diabetes,Elective,Apollo Care
+P0558,48,Male,A-,Arthritis,Elective,City Hospital
+P0559,56,Female,O-,Diabetes,Elective,City Hospital
+P0560,51,Female,AB-,Hypertension,Urgent,City Hospital
+P0561,78,Female,O+,Obesity,Emergency,Sunrise Hospital
+P0562,65,Female,A+,Obesity,Elective,City Hospital
+P0563,78,Male,A+,Healthy,Urgent,Sunrise Hospital
+P0564,21,Male,A+,Obesity,Urgent,City Hospital
+P0565,34,Female,A+,Healthy,Urgent,City Hospital
+P0566,71,Male,O-,Healthy,Elective,Apollo Care
+P0567,19,Female,AB+,Healthy,Elective,Sunrise Hospital
+P0568,69,Female,A+,Arthritis,Emergency,City Hospital
+P0569,25,Male,AB+,Asthma,Emergency,Sunrise Hospital
+P0570,53,Female,AB+,Healthy,Elective,Sunrise Hospital
+P0571,33,Male,O+,Healthy,Urgent,Green Valley Medical Centre
+P0572,52,Male,A+,Asthma,Urgent,Apollo Care
+P0573,28,Male,B+,Diabetes,Urgent,Apollo Care
+P0574,9,Male,B-,Healthy,Emergency,Apollo Care
+P0575,80,Female,A-,Arthritis,Urgent,Green Valley Medical Centre
+P0576,55,Male,AB+,Obesity,Emergency,Green Valley Medical Centre
+P0577,51,Female,AB-,Obesity,Emergency,Apollo Care
+P0578,42,Female,AB-,Hypertension,Urgent,Green Valley Medical Centre
+P0579,11,Female,B-,Hypertension,Urgent,Green Valley Medical Centre
+P0580,63,Female,AB-,Obesity,Elective,Green Valley Medical Centre
+P0581,58,Male,B+,Obesity,Elective,Apollo Care
+P0582,82,Male,AB-,Arthritis,Urgent,Apollo Care
+P0583,51,Female,A-,Asthma,Emergency,Apollo Care
+P0584,64,Female,A-,Hypertension,Emergency,Green Valley Medical Centre
+P0585,53,Male,AB+,Asthma,Emergency,Apollo Care
+P0586,28,Female,A+,Arthritis,Emergency,Green Valley Medical Centre
+P0587,70,Male,O+,Obesity,Emergency,City Hospital
+P0588,40,Female,B+,Healthy,Elective,Green Valley Medical Centre
+P0589,59,Male,AB+,Asthma,Urgent,Sunrise Hospital
+P0590,18,Female,B+,Obesity,Elective,Apollo Care
+P0591,40,Female,A+,Obesity,Emergency,Apollo Care
+P0592,71,Male,O-,Diabetes,Emergency,Sunrise Hospital
+P0593,69,Female,AB-,Asthma,Emergency,Green Valley Medical Centre
+P0594,43,Female,AB-,Healthy,Emergency,City Hospital
+P0595,42,Male,O+,Asthma,Urgent,Sunrise Hospital
+P0596,24,Female,A+,Obesity,Emergency,Sunrise Hospital
+P0597,45,Male,AB+,Healthy,Urgent,Green Valley Medical Centre
+P0598,23,Male,O+,Arthritis,Emergency,Apollo Care
+P0599,26,Female,A+,Diabetes,Urgent,Green Valley Medical Centre
+P0600,39,Female,B-,Obesity,Elective,Sunrise Hospital
