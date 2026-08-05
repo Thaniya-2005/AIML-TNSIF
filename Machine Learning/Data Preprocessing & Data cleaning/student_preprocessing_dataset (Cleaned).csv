@@ -1,0 +1,13 @@
+name,age,gender,marks,attendance,city,date
+Amit,20.0,Male,85,90.0,Mumbai,2026-01-10
+Sara,21.0,female,90,85.0,Delhi,2026-01-12
+John,,Male,105,80.0,mumbai,2026-01-15
+Amit,20.0,Male,85,90.0,Mumbai,2026-01-10
+,19.0,FEMALE,-5,,Pune,2026-01-18
+Priya,23.0,Female,78,88.0,Hyderabad,2026-02-02
+Rahul,22.0,male,82,92.0,delhi,2026-02-05
+Neha,24.0,FEMALE,95,,HYDERABAD,2026-02-08
+Vijay,,Male,68,75.0,Pune,2026-02-11
+Sara,21.0,female,90,85.0,Delhi,2026-01-12
+Kiran,25.0,,74,81.0,,2026-02-20
+Anjali,20.0,Female,88,94.0,Mumbai,2026-02-25
