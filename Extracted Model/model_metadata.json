@@ -1,0 +1,40 @@
+{
+    "project": "Heart Disease Prediction",
+    "model_name": "Logistic Regression",
+    "target_column": "target",
+    "features": [
+        "age",
+        "sex",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalach",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "numerical_features": [
+        "age",
+        "sex",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalach",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "categorical_features": [],
+    "test_accuracy": 0.8032786885245902,
+    "training_samples": 241,
+    "testing_samples": 61,
+    "total_dataset_samples": 302
+}
